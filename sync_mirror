@@ -1,0 +1,2 @@
+mirror git://git.debian.org/git/bash-completion/bash-completion.git
+github git@github.com:foresthz/bash-completion.git
